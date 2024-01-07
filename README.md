@@ -16,5 +16,7 @@ Input requires files `.tpr` and `.xtc` that can be conventionally obtained from 
 ## Output
 Output is stored in file `Kc.log`. In addition, there are some figures and other log files that can be easily obtained by changing the code a little bit!
 
-## Note:
+## Note
 Because of the large sizes of `.tpr` and `.xtc`, these files are not uploaded here!
+
+Important paper: "*Calculating the Bending Modulus for Multicomponent Lipid Membranes in Different Thermodynamic Phases*".
