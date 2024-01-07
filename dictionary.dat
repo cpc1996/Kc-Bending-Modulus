@@ -1,0 +1,11 @@
+{
+    "DPPC": ["C214 C215 C216 C314 C315 C316", "C2  P"], 
+    "POPC": ["C216 C217 C218 C314 C315 C316", "C2  P"],
+    "PSM" : ["C14F C15F C16F C16S C17S C18S", "C2S P"],
+    "CHL1": ["C17",                           "C3"], 
+    "CET" : ["C1 C2 C3 C4",                   "O1 C16"],
+    "STE" : ["C1 C2 C3 C4",                   "O1 C18"],
+    "CTR" : ["C1 C2 C3 C4",                   "N1"], # BE CAREFUL OF CETRIMIDE ITP!!!
+    "T60" : ["C1 C2 C3 C4",                   "C16 C17 C18 O2"],
+    "SLS" : ["C1 C2 C3 C4",                   "O1 S1"],
+}
